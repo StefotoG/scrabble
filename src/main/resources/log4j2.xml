@@ -19,7 +19,7 @@
             <AppenderRef ref="FileAppender" />
         </Root>
         <!-- Logger for specific package -->
-        <Logger name="com.example.myapp" level="debug">
+        <Logger name="com.example.scrabble" level="debug">
             <AppenderRef ref="FileAppender" />
         </Logger>
     </Loggers>
