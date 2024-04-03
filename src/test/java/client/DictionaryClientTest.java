@@ -12,7 +12,6 @@ import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 import static org.hamcrest.Matchers.notNullValue;
-import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class DictionaryClientTest {
     private static final String DICTIONARY_URL = "https://raw.githubusercontent.com/nikiiv/JavaCodingTestOne/master/scrabble-words.txt";
